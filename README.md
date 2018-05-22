@@ -8,7 +8,7 @@ Comprehensive use of statistical concepts in Python to analyze the results of an
 * Assessment of dataset for integrity (missing, duplicate values)
 * Probability Distributions in Python
 * Hypothesis Testing
-* Multiple Linear Regression including analysis of categorical variables through dummy variables
+* Logistic Regression including analysis of categorical variables through dummy variables
 
 ### Tools
 * Python
